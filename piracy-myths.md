@@ -1,11 +1,12 @@
 # Piracy: Common Myths​
+[Link](https://gbatemp.net/threads/piracy-common-myths.344858/)
 
 ```
 My own comments are placed into the blocks like this one.
 ```
 
 ```
-A lot of opinions have been said about the piracy and most of them are divided in two groups: "for" and "against" with respective reasoning. [This article](https://gbatemp.net/threads/piracy-common-myths.344858/) contains the most common myths about piracy which are relative to both sides.
+A lot of opinions have been said about the piracy and most of them are divided in two groups: "for" and "against" with respective reasoning. This article contains the most common myths about piracy which are relative to both sides.
 ```
 
 * **Piracy is theft.**
@@ -59,7 +60,7 @@ Also I want to add my favorite myth:
 Pirated software cannot be trusted.
 Some of the licence buyers use this argument as the main one. Pirated copy is allegedly full of bugs, glitches. Also trojans and ransomware. This may be true if, for example, a person doesn't know that a torrent file cannot has .exe extension.
 
-A pirated copy is exactly a cracked *copy* of licensed software, so, in case we're downloading it from *trusted* sources, the only two things we should pay attention to, are that last patches are included and there are no embedded mods (if we\re talking about games).
+A pirated copy is exactly a cracked *copy* of licensed software, so, in case we're downloading it from *trusted* sources, the only two things we should pay attention to, are that last patches are included and there are no embedded mods (if we're talking about games).
 
 P.S. In addition to the paragraph above, there is one efficient (I guess) practice about fighting the malicious software:
 ```
