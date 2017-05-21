@@ -1,11 +1,13 @@
 Piracy: Common Myths​
 
+[This article](https://gbatemp.net/threads/piracy-common-myths.344858/)
+
 ```
 My own comments are placed into the blocks like this one.
 ```
 
 ```
-A lot of opinions have been said about the piracy and most of them are divided in two groups: "for" and "against" with respective reasoning. [This article](https://gbatemp.net/threads/piracy-common-myths.344858/) contains the most common myths about piracy which are relative to both sides.
+A lot of opinions have been said about the piracy and most of them are divided in two groups: "for" and "against" with respective reasoning. This article contains the most common myths about piracy which are relative to both sides.
 ```
 
 Piracy is theft.
