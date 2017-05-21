@@ -1,5 +1,6 @@
 # Piracy: Common Myths​
-[Link](https://gbatemp.net/threads/piracy-common-myths.344858/)
+
+[This article](https://gbatemp.net/threads/piracy-common-myths.344858/)
 
 ```
 My own comments are placed into the blocks like this one.
