@@ -42,10 +42,6 @@ Manipulations and nothing more. Once again, who aren't going to buy the software
 Tell that to [GBATemp member kongsnutz](https://gbatemp.net/members/kongsnutz.131180/), who was [sued for $1,500,000 AUD](https://www.kotaku.com.au/2010/02/nintendo-wins-1-5m-aussie-piracy-settlement/).
 
 
-* **That's just US law, copyright stuff doesn't apply to me in another country so I can pirate all I want.**
-While I'm using US laws and regulations primarily since it's a main concern of this forum, this is another falsehood. [The WIPO/Berne Convention](http://www.wipo.int/treaties/en/text.jsp?file_id=283698) is a worldwide agreement, if your country is in [the member list](http://www.wipo.int/members/en/) (there's over 100 countries there, so you most likely are) then your country recognizes the copyrights of other countries and has it's own laws in place to deal with violations. Look at the above example, which took place in Australia.
-
-
 * **Piracy kills game systems.**
 There is no correlation between systems that fail (or succeed) and piracy. Multiple systems have failed terribly without any piracy in their lifetime (Virtual Boy, N-Gage, CD-i), while other systems that had piracy enabled for the majority of their lifetime ended up being some of the top sellers of their generation (PS1, Wii, GBA, DS, etc.)
 
