@@ -17,8 +17,8 @@ class Fighter {
 
     hit(enemy, point) {
         let damage = point * this.power;
-        enemy.setDamage(damage);
         console.log(`${this.name} HITS ${enemy.name}: -${damage} HP!`);
+        enemy.setDamage(damage);
     }
 }
 
