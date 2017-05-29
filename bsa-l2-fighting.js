@@ -1,14 +1,20 @@
 class Fighter {
     constructor(name = 'Fighter', power = 10, health = 1000) {
         this.name = name;
-        this.power = power;
-        this.health = health;
+        /*
+          If there was passed a negative value of power or health,
+          convert it to positive one
+        */
+        this.power = (power < 0) ? Math.abs(power) : power;
+        this.health = (health < 0) ? Math.abs(health) : health;
     }
 
     setDamage(damage) {
         this.health -= damage;
-        // If health became negative, set it to zero
-        // since the message such as "health: -100 HP" would look oddly
+        /*
+          If health became negative, set it to zero,
+          since the message such as "health: -100 HP" would look oddly
+        */
         if (this.health < 0) {
             this.health = 0;
         }
@@ -29,7 +35,7 @@ class ImprovedFighter extends Fighter {
 }
 
 let fighter = new Fighter('Heihachi', 10, 1000);
-let improvedFighter = new ImprovedFighter('Jinpachi', 8, 1200);
+let improvedFighter = new ImprovedFighter('Jinpachi', 8, -1200);
 
 // Make the message before the battle
 var announcement = (fighter1Name = 'Fighter1', fighter2Name = 'Fighter2') =>
@@ -39,6 +45,7 @@ READY?
 FIGHT!
 
 `);
+
 // This message will be displayed if no one wins
 var endBattleMessage = '\nUnfortunately, fighters got tired and stopped fighting';
 
@@ -70,8 +77,10 @@ var fight = function(fighter, improvedFighter, ...point) {
             console.log(`${fighters[fIndex1].name} WINS!`);
             break;
         }
-        // In case the loop has gone through all points,
-        // display message about battle ending
+        /*
+          In case the loop has gone through all points,
+          display message about battle ending
+        */
         if (i == point.length - 1) {
             console.log(endBattleMessage);
         }
